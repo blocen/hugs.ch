@@ -1,2 +1,8 @@
 # hugs.ch
-Web site in Haskell
+
+A web site in Haskell
+
+It will likely be on hugs.
+
+
+
